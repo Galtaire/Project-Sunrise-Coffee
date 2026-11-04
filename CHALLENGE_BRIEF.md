@@ -64,7 +64,6 @@ Use these questions to structure your analysis. They are starting points — fee
 - Is there a positive correlation between `loyalty_adoption_rate` and `loyalty_member_revenue_pct` at a store level?
 - Do loyalty members spend more per transaction than non-members, based on `avg_transaction_value_gbp` relative to `loyalty_transactions`?
 - What is the net value of the loyalty programme per store: loyalty member revenue contribution minus `loyalty_redemption_cost_gbp`?
-- Does `loyalty_adoption_rate` vary significantly by store format or region?
 
 ### Revenue Mix
 
